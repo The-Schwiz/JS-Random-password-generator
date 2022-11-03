@@ -17,10 +17,13 @@ Just click the link below and try it out.
 
 ## Screenshots
 
-<img width="882" alt="Screen Shot 2022-11-03 at 10 52 01 AM" src="https://user-images.githubusercontent.com/113313870/199754487-c909c3de-e7f5-470e-bf96-256acf6af6e9.png">
-<img width="875" alt="Screen Shot 2022-11-03 at 10 51 49 AM" src="https://user-images.githubusercontent.com/113313870/199754489-369cc98e-3888-4691-b7a5-8a692dd72ae1.png">
-<img width="871" alt="Screen Shot 2022-11-03 at 10 51 41 AM" src="https://user-images.githubusercontent.com/113313870/199754491-a195dc24-b020-4ee1-8d13-fa75c2904f1e.png">
-<img width="891" alt="Screen Shot 2022-11-03 at 10 51 27 AM" src="https://user-images.githubusercontent.com/113313870/199754492-1c6b9966-f53f-447d-a009-d976b62a3da3.png">
+<img width="891" alt="Screen Shot 2022-11-03 at 10 51 27 AM" src="https://user-images.githubusercontent.com/113313870/199754653-f4182e8d-bf7f-43f2-9427-64043e041fc4.png">
+
+<img width="871" alt="Screen Shot 2022-11-03 at 10 51 41 AM" src="https://user-images.githubusercontent.com/113313870/199754669-3a330563-03a8-4580-a6d5-aae339105041.png">
+
+<img width="875" alt="Screen Shot 2022-11-03 at 10 51 49 AM" src="https://user-images.githubusercontent.com/113313870/199754691-0d202b29-6f03-4243-a97a-64d2b7a65049.png">
+
+<img width="882" alt="Screen Shot 2022-11-03 at 10 52 01 AM" src="https://user-images.githubusercontent.com/113313870/199754713-fa2fc024-b01b-4dac-bd70-5f5dd7b6e518.png">
 
 
 ## User Story
