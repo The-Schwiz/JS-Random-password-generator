@@ -15,11 +15,13 @@ N/A
 
 Just click the link below and try it out. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+## Screenshots
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+<img width="882" alt="Screen Shot 2022-11-03 at 10 52 01 AM" src="https://user-images.githubusercontent.com/113313870/199754487-c909c3de-e7f5-470e-bf96-256acf6af6e9.png">
+<img width="875" alt="Screen Shot 2022-11-03 at 10 51 49 AM" src="https://user-images.githubusercontent.com/113313870/199754489-369cc98e-3888-4691-b7a5-8a692dd72ae1.png">
+<img width="871" alt="Screen Shot 2022-11-03 at 10 51 41 AM" src="https://user-images.githubusercontent.com/113313870/199754491-a195dc24-b020-4ee1-8d13-fa75c2904f1e.png">
+<img width="891" alt="Screen Shot 2022-11-03 at 10 51 27 AM" src="https://user-images.githubusercontent.com/113313870/199754492-1c6b9966-f53f-447d-a009-d976b62a3da3.png">
+
 
 ## User Story
 
