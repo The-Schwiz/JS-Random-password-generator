@@ -13,13 +13,20 @@ N/A
 
 ## Usage
 
-Just click the link below and try it out. 
+Just click the link below and try it out:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+https://the-schwiz.github.io/JS-Random-password-generator/
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+## Screenshots
+
+<img width="891" alt="Screen Shot 2022-11-03 at 10 51 27 AM" src="https://user-images.githubusercontent.com/113313870/199754653-f4182e8d-bf7f-43f2-9427-64043e041fc4.png">
+
+<img width="871" alt="Screen Shot 2022-11-03 at 10 51 41 AM" src="https://user-images.githubusercontent.com/113313870/199754669-3a330563-03a8-4580-a6d5-aae339105041.png">
+
+<img width="875" alt="Screen Shot 2022-11-03 at 10 51 49 AM" src="https://user-images.githubusercontent.com/113313870/199754691-0d202b29-6f03-4243-a97a-64d2b7a65049.png">
+
+<img width="882" alt="Screen Shot 2022-11-03 at 10 52 01 AM" src="https://user-images.githubusercontent.com/113313870/199754713-fa2fc024-b01b-4dac-bd70-5f5dd7b6e518.png">
+
 
 ## User Story
 

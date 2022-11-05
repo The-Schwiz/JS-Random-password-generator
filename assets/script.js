@@ -5,6 +5,7 @@ const alphaUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const numbers = "0123456789";
 const symbols = "!@#$%^&*_-+=";
 
+// Set global variables
 let userPasswordLength;
 let userCharLower;
 let userCharUpper;
@@ -16,7 +17,7 @@ const generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
 function writePassword() {
-  const password = generatePassword(); // "&@-++#=^-_"
+  const password = generatePassword(); 
   const passwordText = document.querySelector("#password");
 
   passwordText.value = password;
@@ -27,8 +28,7 @@ function writePassword() {
 generateBtn.addEventListener("click", promptMe);
 
 
-
-// Prompts
+// Prompts 
 function promptMe() {
   // loop until length is valid
   // let lengthInvalid = true;
@@ -42,12 +42,12 @@ function promptMe() {
     return; 
   }
 
-  // all inputs are valid
+  // if all inputs are valid
   writePassword();
 
 }
 
-
+// prompts for password length 
 function promptForPassLength() {
   while (true) {
     userPasswordLength = prompt("Choose a password length between 8-128 characters."); 
@@ -64,6 +64,7 @@ function promptForPassLength() {
   return true; // completed the promprt
 }
 
+// prompts for char type
 function promptForCharacterTypes(){
   while (true) { // loop until at least one character type is selected as "y"
     while (true) {
@@ -129,6 +130,7 @@ function promptForCharacterTypes(){
   return true;
 }
 
+// generates password concatenating with user selections
 function generatePassword() {
   let availableCharacters = "";
   if (userCharLower === "y") {
@@ -147,8 +149,6 @@ function generatePassword() {
     availableCharacters += numbers;
   }
 
-
-  // availableCharacter = "abcd"
   let randomPassword = "";
 
   for (let i = 0; i < userPasswordLength; i++) {
@@ -162,41 +162,3 @@ function generatePassword() {
 
 
 
-
-function add(a, b) { // a, b are parameters
-  return a + b;
-}
-
-
-add(1, 2); // when invoking the function add, we pass arguments (like 1, and 2) so the parameter a = 1 and b = 2
-add(3, 4);
-
-
-// Assignment code here
-
-
-// // Get references to the #generate element
-
-// var generateBtn = document.querySelector("#generate");
-
-// // Write password to the #password input
-
-// function writePassword() {
-//   var password = generatePassword();
-//   var passwordText = document.querySelector("#password");
-
-//   passwordText.value = password;
-
-// }
-
-// // Add event listener to generate button
-
-// generateBtn.addEventListener("click", writePassword);
-
-
-// Define prompt questions:
-
-// var userPasswordLength = prompt ("Choose a password length between 8-128 characters.");
-// var userCharUpper = prompt ("Do you wish to include upper case characters (y/n)?")
-// var userCharLower = prompt ("Do you wish to include lower case characters (y/n)?")
-// var userSpecChar = prompt ("Do you wish to include special characters (y/n)?")
