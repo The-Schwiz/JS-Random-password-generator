@@ -13,7 +13,9 @@ N/A
 
 ## Usage
 
-Just click the link below and try it out. 
+Just click the link below and try it out:
+
+https://the-schwiz.github.io/JS-Random-password-generator/
 
 ## Screenshots
 
